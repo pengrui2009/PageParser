@@ -6,3 +6,4 @@ from .xicidaili_parser import XicidailiParser
 from .baidu_parser import BaiduParser
 from .douban_parser import DoubanParser
 from .lagou_parser import LagouParser
+from .weixin_parser import WeixinParser
