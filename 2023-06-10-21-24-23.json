@@ -1,0 +1,518 @@
+[
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "",
+        "comments": "",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "",
+        "comments": "",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "",
+        "comments": "",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：早会",
+        "content": "工作内容：早会",
+        "datetime": "工作时间：9:00-11.00",
+        "salares": "3.工资待遇:2小时100。           ",
+        "distance": "",
+        "address": "工作地点：石景山-中海大厦",
+        "contract": "4.王先生:17055599996同步微信",
+        "comments": "4.王先生:17055599996同步微信",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：10人"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：兼职讲解员",
+        "content": "工作内容：景区内讲解工作",
+        "datetime": "工作时间：8:30-17:00 工作天数26天",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "工作时间：8:30-17:00 工作天数26天",
+        "comments": "工作时间：8:30-17:00 工作天数26天",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容：注册接待、咨询、会议室PPT播放和管理",
+        "datetime": "工作时间：5.17-5.19（7：30-18：00）",
+        "salares": "工资待遇：1）工资180元/天 包水饭，完结；2）5.16 培训路补20元3）可提供实习证明",
+        "distance": "",
+        "address": "工作地点：首钢三高炉会议",
+        "contract": "工作时间：5.17-5.19（7：30-18：00）",
+        "comments": "工作时间：5.17-5.19（7：30-18：00）",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：30"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：影院内容介绍员",
+        "content": "",
+        "datetime": "",
+        "salares": "工资待遇：基本工资8000左右+提成（月工资10000+）（有车补 房补 饭补）",
+        "distance": "",
+        "address": "",
+        "contract": "联系电话：13910801280微信同号",
+        "comments": "联系电话：13910801280微信同号",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：3人，女（20-35岁）"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容：售票、检票、礼品发放  排队引导等工作   休息时间可以随便逛",
+        "datetime": "工作时间：早10点30到晚20点30，5月16 下午2点半 培训（一小时多点结束）路补20，5月17日到21号 5天，19.20号两天21点30下班",
+        "salares": "工资待遇：160+20餐补共180/天，有吃饭及轮休时间",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：AA1014133",
+        "comments": "报名微信：AA1014133",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：办公室文职",
+        "content": "工作内容：excel录入 文件整理",
+        "datetime": "工作时间：9-18 or",
+        "salares": "工资待遇：每天200周结",
+        "distance": "",
+        "address": "工作地点：三元桥",
+        "contract": "联系人：18611965875(微信同号)",
+        "comments": "联系人：18611965875(微信同号)",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：2人"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容：展会活动协助    游戏区协助等工作",
+        "datetime": "",
+        "salares": "工资待遇：190/天  不包吃住  工资结束结  中途可预支工资",
+        "distance": "",
+        "address": "工作地点：将台地铁站C口颐堤港商城内",
+        "contract": "微信号：AA101413",
+        "comments": "微信号：AA101413",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：地推促销",
+        "content": "工作内容：边玩边赚钱，下水试玩引流、促销",
+        "datetime": "工作时间：10:00-17:30",
+        "salares": "工资待遇：180-500/天",
+        "distance": "",
+        "address": "工作地点：昌平温都水城",
+        "contract": "工作时间：10:00-17:30",
+        "comments": "工作时间：10:00-17:30",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：2"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "招聘岗位：地铁安检、巡逻",
+        "content": "工作内容：地铁安检、巡逻",
+        "datetime": "工作时间：8-10小时听分配",
+        "salares": "工资待遇：月薪5000-6000",
+        "distance": "",
+        "address": "工作地点：5号线、10号线、13号线，听分配",
+        "contract": "工作时间：8-10小时听分配",
+        "comments": "工作时间：8-10小时听分配",
+        "completed": "false",
+        "expired": 1686518662,
+        "requirements": "招聘人数：10"
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "19565163578微信同步",
+        "comments": "19565163578微信同步",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "工作时间9:00----12:00点左右",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名加微信17701297620",
+        "comments": "报名加微信17701297620",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名方式：点击下方二维码识别添加报名微信",
+        "comments": "报名方式：点击下方二维码识别添加报名微信",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "【工作内容】负责客户档案资料的审核、扫描、质检、图像处理等档案数字化工作",
+        "datetime": "【工作时间】9:00-18:00，午休1小时，周末单休，5.4号面试，5.5上岗",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "",
+        "comments": "",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "【工作内容】：拍照+录音",
+        "datetime": "【工作时间】：9:10、13:40、16:20  每个时间段预计2.5小时左右",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601378317",
+        "comments": "报名微信：16601378317",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容：物业客服人员，对客服流程了解掌握透彻。女性，20-30岁之间，相貌端正，平时不能外出，只有放假可以外出",
+        "datetime": "工作时间：8：00—18：30，上6休1",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：17701297620",
+        "comments": "报名微信：17701297620",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "【工作内容】线上自由接单，保证乘客安全到达目的地",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "【工作地点】全北京都可以跑",
+        "contract": "报名微信：17701297620",
+        "comments": "报名微信：17701297620",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容:摘菜，洗菜，包装",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601378317",
+        "comments": "报名微信：16601378317",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：17701297620",
+        "comments": "报名微信：17701297620",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容：切菜，洗菜，配菜，打餐，刷碗，手脚麻利的，干活墨迹的别报名",
+        "datetime": "工作时间：6:30-18:30",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601555025",
+        "comments": "报名微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "工作内容 ：根据订单打包商品，正常超市工作轻松简单。",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601378317",
+        "comments": "报名微信：16601378317",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：17701297620",
+        "comments": "报名微信：17701297620",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名加微信：16601555025",
+        "comments": "报名加微信：16601555025",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "报名微信：16601378317",
+        "comments": "报名微信：16601378317",
+        "completed": "false",
+        "expired": 1686518662
+    },
+    {
+        "userId": {
+            "$oid": "64537dc3e766bb008529e762"
+        },
+        "title": "",
+        "content": "",
+        "datetime": "",
+        "salares": "",
+        "distance": "",
+        "address": "",
+        "contract": "",
+        "comments": "",
+        "completed": "false",
+        "expired": 1686518662
+    }
+]
